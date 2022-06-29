@@ -1,0 +1,29 @@
+# author: Junda Zhang
+# name: Junda Zhang
+# email: "zhangjunda23@gmail.com"
+title: MyBlogs
+description: 
+theme: minima
+minima:
+  skin: dark
+header_pages:
+  - about.md
+
+show_excerpts: true
+
+comments:
+  gitalk: true
+  gitalk_clientID: '3da7b49cf332363ca44d'
+  gitalk_Secret: 'f8a6281a346361239259fe9e859fc34c01e62864'
+  gitalk_repo: 'zhangjunda23.github.io'
+  gitalk_owner: ['zhangjunda23']
+  gitalk_admin: 'zhangjunda23'
+  distractionFreeMode: false
+
+
+# Tags
+tag_page_layout: tag_page
+tag_page_dir: tags
+
+# tag_feed_layout: tag_feed
+# tag_feed_dir: tags
